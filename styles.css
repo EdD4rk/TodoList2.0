@@ -11,6 +11,7 @@ body {
   margin: 0;
   height: 100vh;
   background-color: var(--diabled);
+  background-image: url(https://wallpaperaccess.com/full/796854.jpg);
 }
 
 *:first-letter {

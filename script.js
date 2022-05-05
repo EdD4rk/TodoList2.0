@@ -45,15 +45,3 @@ const renderOrderedTasks = () => {
 }
 
 setDate();
-
-#dateMonth,
-#dateNumber,
-#dateText  {
-    font-weight: bold;
-}
-
-#dateMonth,
-#dateYear {
-    margin-left: 7px;
-    font-size: 20px;
-}
